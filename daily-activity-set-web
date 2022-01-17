@@ -1,3 +1,16 @@
-1. Create personal token github
-2. set github as remote set-portofolio from local
-3. set github pages for repo set-portofolio
+Catatan Aktivitas Set web Harian
+
+Senin, 17 Januari 2022
+1. Menemukan Bug di My List Anime
+   - Bug setcookie "Cannot Modify Header Information" in login
+   - Bug Kontent Anime Populer Tampil Double
+
+2. Mengubah | Menginiasi folder setPortofolio menjadi repository
+3. Membuat code token Github sebagai ganti password 
+4, Membuat remote dari setPortofolio di Github
+5. Membuat Github pages untuk repository set-portofilio (remote dari setPortofolio di local)
+6. Membuat remote di local dari repo 'daily-activity-set-web' di Github
+7. Melakukan Push dan Sinkronisasi repo 'daily-activity-set-web' dan remote nya di local
+ 	
+
+
