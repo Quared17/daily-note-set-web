@@ -9,8 +9,15 @@ Senin, 17 Januari 2022
 3. Membuat code token Github sebagai ganti password 
 4, Membuat remote dari setPortofolio di Github
 5. Membuat Github pages untuk repository set-portofilio (remote dari setPortofolio di local)
-6. Membuat remote di local dari repo 'daily-activity-set-web' di Github
-7. Melakukan Push dan Sinkronisasi repo 'daily-activity-set-web' dan remote nya di local
+6. Set Repo di Git : 
+   - monthly-target-set-web
+   - daily-note-set-web
+   - daily-note-learn-web
+
+7. Set remote in local from repo in Github
+   - monthly-target-set-web
+   - daily-note-set-web
+   - daily-note-learn-web
  	
 
 
