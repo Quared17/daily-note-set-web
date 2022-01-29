@@ -1,6 +1,6 @@
 Catatan Aktivitas Set web Harian
 
-Senin, 17 Januari 2022
+Senin, 17 Januari 2022 :
 1. Menemukan Bug di My List Anime
    - Bug setcookie "Cannot Modify Header Information" in login
    - Bug Kontent Anime Populer Tampil Double
@@ -20,9 +20,16 @@ Senin, 17 Januari 2022
    - daily-note-learn-web
 
 
-Kamis, 20 Januari 2022
+Kamis, 20 Januari 2022 :
 1. Set tampilan mockup portofolio section untuk project 'setPortofolio' dengan css flexbox
 2. Set responsive tampilan portofolio section 
+
+
+Sabtu, 29 Januari 2022 :
+1. Menambahkan setting active-nav-link
+2. Menambahkan setting responsive nav-link
+3. Edit tampilan my skill dan my portofolio dalam mode responsive di project set-portofolio
+
  	
 
 
