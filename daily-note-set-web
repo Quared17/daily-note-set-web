@@ -49,6 +49,17 @@ Selasa, 8 Februari 2022 :
      running normally.
 
 
+Rabu, 9 Februari 2022 :
+1. Fix bug login with remember me (setcookie)
+   Solution : 
+   - use ob_start() in top most file index.php to set new buffer output
+   - use ob_end_flush after setCookie to show output buffer 
+
+2. Start setting responsive layout project 'My list anime'
+
+
+
+
 
 
 
